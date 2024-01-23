@@ -1,0 +1,47 @@
+nav{
+    margin-left: 0%;
+}
+body{
+    
+    background-color: #6677FA;
+    color: whitesmoke;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+}
+header{
+    margin-top:20px;
+    text-align: center;
+}
+main{
+    align-content: center;
+    margin: 20px;
+}
+.card{
+    background-color: #F0DEFF;
+    color: black;
+    margin-top: 10%;
+}
+form{
+    text-align: center;
+}
+a:hover{
+    color: darkgoldenrod;
+}
+.fortnite-text{
+    font-family: 'Concert One', sans-serif;
+
+}
+.gta-text{
+    font-family: 'Lemon', serif;
+}
+.gow-text{
+    font-family: 'Tilt Neon', sans-serif;
+}
+.ktjl-text{
+    font-family: 'Rowdies', sans-serif;
+}
+.hogwarts-text{
+    font-family: 'Lobster', sans-serif;
+}
